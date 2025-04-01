@@ -12,4 +12,4 @@ Trata de 14 ejercicios resueltos acerca de matematica combinatoria y una calcula
 | Estudiante | Cedula  |
 | :-------- | :------- |
 | `Franyer Marin` | `32.293.396` | 
-| `Santhiago Mendez` | `31.562.660` | 
+| `Santhiago Mendez` | `30.849.353` | 
