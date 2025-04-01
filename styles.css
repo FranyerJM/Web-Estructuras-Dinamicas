@@ -84,6 +84,19 @@ body {
     z-index: 1000; /* Asegura que el logo este por encima de otros elementos */
 }
 
+/* Media query para pantallas moviles */
+@media (max-width: 768px) {
+    .logo, .gatito {
+        position: relative; /* Cambia a posicionamiento relativo */
+        top: 10px; /* Resetea la distancia desde la parte superior */
+        right: auto; /* Resetea la distancia desde la derecha */
+        left: auto; /* Resetea la distancia desde la izquierda */
+        width: 100px; /* Ajusta el ancho del logo */
+        height: auto; /* Mantiene la proporcion del logo */
+        margin: 20px;
+    }
+}
+
 
 
 /* Estilos responsivos para pantallas pequeñas */
